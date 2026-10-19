@@ -1,0 +1,9 @@
+[
+  {
+    "site": "Flipkart",
+    "url": "https://dl.flipkart.com/s/AHmNqQuuuN",
+    "name_selector": "h1",
+    "price_selector": "div.Nx9bqj, div._30jeq3, div.v1zwn21n.v1zwn20._1psv1zeb9",
+    "currency": "INR"
+  }
+]
